@@ -1,4 +1,4 @@
-# TASTY CI - Systeme de gestion de commandes
+# TASTY CI - Systeme de gestion des commandes
 ## Installation
 
 Version : 0.2.0-beta
