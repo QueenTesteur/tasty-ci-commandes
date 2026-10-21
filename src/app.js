@@ -4,3 +4,4 @@ function calculerTotal(articles) {return articles.reduce((a,b) => a+b.prix, 0);}
 function listerCommandes(commandes){ return commandes.map(c => c.id);}
 function exporterCSV(commandes){ /* a completer */ }
  // Debut d'une nouvelle fonctionnalité, pas encore terminée
+function filtrerParStatut(commandes,statut) { return commandes.filter(c => c.statut === statut); }
