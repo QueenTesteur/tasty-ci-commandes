@@ -7,3 +7,4 @@ Version : 0.2.0-beta
 
 Modification effectuée directement sur GitHub pour le laboratoire DevOps.
 Contact : contact@tastyci.ci
+Projet developpe selon le model Github Flow
